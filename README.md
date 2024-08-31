@@ -1,4 +1,4 @@
-#Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kittichok Madwised
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kittichok Madwised
 ==========================================================================================================================================
 
 * 🌍  I'm based in Thailand
@@ -19,19 +19,4 @@
 
 ### Badges
 
-<a href="https://github.com/lxwk0tti" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxwk0tti&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a># Hi there 👋
-
-<!--
-**lxwk0tti/lxwk0tti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/lxwk0tti" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lxwk0tti&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
