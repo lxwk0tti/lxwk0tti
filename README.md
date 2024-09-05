@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [kittichok.tt@gmali.com](mailto:kittichok.tt@gmali.com)
-* 🧠  I'm learning I am currently learning and working on my own projects, primarily focused on full stack developer, and uploading them to GitHub.
+* 🧠  I'm learning and working on my own projects, primarily focused on full-stack development, and uploading them to GitHub.
 
 ### Skills
 
